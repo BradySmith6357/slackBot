@@ -1,0 +1,12 @@
+
+name: ClayBot
+description: A bot with a winning personality
+avatar: images/robots.jpg
+background: images/background.jpg
+config:
+  - name: ACCESS_TOKEN
+    type: text
+    global: false
+screenshots:
+  - screenshot: images/screenshot1.png
+  - screenshot: images/screenshot2.jpg
